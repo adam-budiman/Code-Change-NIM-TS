@@ -1,10 +1,8 @@
-# Pure TypeScript - Bilangan Matematika
+# TypeScript - Bilangan Matematika
 
-Solusi **pure TypeScript** untuk 3 soal matematika berdasarkan NIM **051438428**.
+Solusi **pure TypeScript** untuk 3 soal matematika berdasarkan NIM **-**.
 
 ## ✅ Status
-
-**tsx sudah terinstall!** Semua file TypeScript dapat dijalankan langsung.
 
 ---
 
@@ -78,7 +76,7 @@ Total: 12 bilangan prima
 
 ## 🎯 Analisis NIM
 
-**NIM: 051438428**
+**NIM: -**
 
 | Ekstraksi | Nilai | Digunakan Untuk |
 |-----------|-------|-----------------|
@@ -94,7 +92,7 @@ Total: 12 bilangan prima
 Semua file menggunakan **TypeScript type annotations**:
 
 ```typescript
-const nim: string = "051438428";
+const nim: string = "-";
 const tinggi: number = 8;
 const deret: number[] = [28, 33, 38, ...];
 function isPrima(num: number): boolean { ... }
